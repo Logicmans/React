@@ -1,4 +1,5 @@
-# React 1.关于typeof
+# React 关于typeof 和 函数组件中defaultProps类型定义的方法
+#1.关于typeof
 
 在 TSX（TypeScript + JSX）中，typeof 依然是 JavaScript/TypeScript 中的关键字，它有两种常见用法：
 
